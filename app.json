@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "App_prueba_react",
+    "slug": "App_prueba_react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "App_prueba_react"
+}
